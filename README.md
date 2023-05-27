@@ -1,4 +1,4 @@
-![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbDXrckDkv7iglhtW2gEB3YaL_8vVjnziu6g&usqp=CAU)
+
 <!-- Your Name -->
 # Hi, I'm Piyush Agarwal! 👋
 
