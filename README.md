@@ -1,5 +1,5 @@
 <!-- Your Name -->
-# Hi, I'm Piyush Agarwal! 👋
+# Hi, I'm [Piyush Agarwal]! 👋
 
 <!-- Your Introduction -->
 I am a full stack developer with a passion for learning and exploring new technologies. As a developer, I stay up-to-date with the latest advancements in the tech world and am always eager to experiment with new tools and frameworks. In addition to my technical expertise, I am also fascinated by the study of human psychology.
@@ -23,7 +23,7 @@ I am a full stack developer with a passion for learning and exploring new techno
 
 I write technical articles on my blog, covering various topics related to software development, technology, and productivity. Check out some of my recent articles:
 
-- [How are your passwords being stored?]([link-to-article-1](https://medium.com/@piyush.agarwal24.pa/how-are-your-passwords-being-stored-fcceefc16570))
+- [How are your passwords being stored?](https://medium.com/@piyush.agarwal24.pa/how-are-your-passwords-being-stored-fcceefc16570)
 
 <!-- Your Contact Information -->
 ## 📫 Contact Me
