@@ -1,9 +1,10 @@
+<div align="center">
+<img width="800"  src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dGVjaG5vbG9neXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80">
+<h1 align="center">Hi, I'm Piyush Agarwal! 👋</h1>
+<h3 align="center">I am a full stack developer with a passion for learning and exploring new technologies.</h3>
+</div>
 
-<!-- Your Name -->
-# Hi, I'm Piyush Agarwal! 👋
-
-<!-- Your Introduction -->
-I am a full stack developer with a passion for learning and exploring new technologies. As a developer, I stay up-to-date with the latest advancements in the tech world and am always eager to experiment with new tools and frameworks. In addition to my technical expertise, I am also fascinated by the study of human psychology.
+As a developer, I stay up-to-date with the latest advancements in the tech world and am always eager to experiment with new tools and frameworks. In addition to my technical expertise, I am also fascinated by the study of human psychology.
 
 <!-- Your Areas of Expertise -->
 ## 🔥 Expertise
