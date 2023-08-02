@@ -25,7 +25,7 @@ As a developer, I stay up-to-date with the latest advancements in the tech world
 
 I write technical articles on my blog, covering various topics related to software development, technology, and productivity. Check out some of my recent articles:
 
-- [How are your passwords being stored?](https://medium.com/@piyush.agarwal24.pa/how-are-your-passwords-being-stored-fcceefc16570)
+- [Blog post](https://piyushagarwal.hashnode.dev)
 
 <!-- Your Contact Information -->
 ## 📫 Contact Me
