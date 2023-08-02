@@ -1,7 +1,7 @@
 <div align="center">
 <img width="500"  src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dGVjaG5vbG9neXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80">
 <h1 align="center">Hi, I'm Piyush Agarwal! 👋</h1>
-<h3 align="center">I am a full stack developer with a passion for learning and exploring new technologies.</h3>
+<h3 align="center">I am an aspiring Rust developer and a versatile full stack developer with a deep passion for continuous learning and pushing the boundaries of technology.</h3>
 </div>
 
 As a developer, I stay up-to-date with the latest advancements in the tech world and am always eager to experiment with new tools and frameworks. In addition to my technical expertise, I am also fascinated by the study of human psychology.
@@ -10,6 +10,7 @@ As a developer, I stay up-to-date with the latest advancements in the tech world
 ## 🔥 Expertise
 
 - Full-stack web development
+- Rust Programming language
 
 <!-- Your Key Skills -->
 ## 💻 Key Skills
@@ -19,13 +20,14 @@ As a developer, I stay up-to-date with the latest advancements in the tech world
 - Databases: MongoDB, MySQL
 - Frameworks and libraries: Express.js
 - Version control: Git, GitHub
+- DevOps: Docker
 
 <!-- Your Blog -->
 ## 📝 Blog
 
-I write technical articles on my blog, covering various topics related to software development, technology, and productivity. Check out some of my recent articles:
+I write technical articles on my blog, covering various topics related to software development, technology, and productivity.
 
-- [Blog post](https://piyushagarwal.hashnode.dev)
+[Check out some of my recent articles:](https://piyushagarwal.hashnode.dev)
 
 <!-- Your Contact Information -->
 ## 📫 Contact Me
