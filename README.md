@@ -42,6 +42,9 @@ Feel free to reach out to me through the following channels:
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushhagarwal&show_icons=true&theme=radical)
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/piyushhagarwal/count.svg?"  />
+</div>
 
 <!-- Footer -->
 #### Thank you for visiting! Enjoy exploring my repositories! 🚀
