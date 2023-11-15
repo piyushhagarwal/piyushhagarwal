@@ -9,13 +9,13 @@ As a developer, I stay up-to-date with the latest advancements in the tech world
 <!-- Your Areas of Expertise -->
 ## 🔥 Expertise
 
-- Full-stack web development
+- Full-stack web development(MERN)
 - Rust Programming language
 
 <!-- Your Key Skills -->
 ## 💻 Key Skills
 
-- Programming languages: JavaScript, Python, C++, Rust
+- Programming languages: JavaScript, Python, C++, Rust and Java
 - Web technologies: HTML5, CSS3, React, Node.js
 - Databases: MongoDB, MySQL
 - Frameworks and libraries: Express.js
