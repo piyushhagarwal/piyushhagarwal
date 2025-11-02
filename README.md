@@ -10,7 +10,6 @@ As a developer, I stay up-to-date with the latest advancements in the tech world
 ## 🔥 Expertise
 
 - Full-stack web development(MERN)
-- Rust Programming language
 
 <!-- Your Key Skills -->
 ## 💻 Key Skills
